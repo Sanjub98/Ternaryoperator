@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+table{
+  border-collapse:separate;
+  border: 2px solid gray;
+  border-radius: 10px;
+  margin: 20px;
+  background-color: blanchedalmond;
+}
+
+th,td{
+  border-collapse: collapse;
+  border: 2px solid gray;
+
+}
